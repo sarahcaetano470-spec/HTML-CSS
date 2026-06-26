@@ -1,0 +1,44 @@
+----------------------------Seletores CSS---------------------------------------------------------------
+As configurações das CSS são realizadas através dos seletores. Vamos ver a
+anatomia de um seletor. 
+p{
+    font-family: Arial;
+    font-size: 12pt;
+    color: blue;
+}
+
+---------------------------------Estrutura básica HTML--------------------------------------------
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0>
+    <title>TITULO PAGINA</title>
+
+</head>
+<body>
+
+
+</body>
+</html>
+-----------------------------SIMBOLOS HTML---------------------------------------------------------
+Um &lt; estamos pedindo pra colocar o símbolo menor que (less than).
+Um &gt; estamos pedindo para coloca o símbolo maior que (greater than). 
+
+Referências de mais simbolos: https://www.w3schools.com/charsets/ref_utf_symbols.asp
+
+Para adicionar emojis:
+acesse a página: https://emojipedia.org/
+escolha o emoji que quer e entre em informações, copie o código unicode e 
+troque a parte U+ por &#x
+
+U+1F604 >>>>>>>>> &#x1F604
+
+--------------------------Faviconssss-------------------------------------------------
+Link do site de busca: https://www.iconarchive.com/
+Site pra gerar um favicon- www.favicon.io
+
+--------------------------------------------------------------------------------------
+
+
+
