@@ -74,3 +74,15 @@ Aqui vão alguns media types bem usados no nosso dia-a-dia:
 -----------------------------------------------------------------------------------------
 -----------------------------MÓDULO 2----------------------------------------------------
 
+Existem várias pseudo-classes para estilos, podemos
+citar :hover, :visited, :active, :checked, :empty e :focus.
+
+Os principais pseudo-elementos usados nas CSS
+são ::before, ::after, ::first-letter, ::first-line.
+
+Caixas 
+    box level
+    div, hi-h6, p, main, header, nav, article, aside, footer, form, video
+
+    inline level
+    span, a, code, small, strong, em, sup-sub, label, button, input, select
